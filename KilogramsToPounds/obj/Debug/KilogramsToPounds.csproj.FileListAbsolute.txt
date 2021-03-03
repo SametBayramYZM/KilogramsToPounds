@@ -1,0 +1,10 @@
+C:\Users\Samet\source\repos\KilogramsToPounds\KilogramsToPounds\bin\Debug\KilogramsToPounds.exe.config
+C:\Users\Samet\source\repos\KilogramsToPounds\KilogramsToPounds\bin\Debug\KilogramsToPounds.exe
+C:\Users\Samet\source\repos\KilogramsToPounds\KilogramsToPounds\bin\Debug\KilogramsToPounds.pdb
+C:\Users\Samet\source\repos\KilogramsToPounds\KilogramsToPounds\obj\Debug\KilogramsToPounds.csprojAssemblyReference.cache
+C:\Users\Samet\source\repos\KilogramsToPounds\KilogramsToPounds\obj\Debug\KilogramsToPounds.KilogramsToPounds.resources
+C:\Users\Samet\source\repos\KilogramsToPounds\KilogramsToPounds\obj\Debug\KilogramsToPounds.Properties.Resources.resources
+C:\Users\Samet\source\repos\KilogramsToPounds\KilogramsToPounds\obj\Debug\KilogramsToPounds.csproj.GenerateResource.cache
+C:\Users\Samet\source\repos\KilogramsToPounds\KilogramsToPounds\obj\Debug\KilogramsToPounds.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\KilogramsToPounds\KilogramsToPounds\obj\Debug\KilogramsToPounds.exe
+C:\Users\Samet\source\repos\KilogramsToPounds\KilogramsToPounds\obj\Debug\KilogramsToPounds.pdb
